@@ -128,6 +128,7 @@ def automatic_plugin_install(*args):
     return 1
 
 def install_newpad():
+    pass
     # 推广一下自家的Markdown编辑器, NewPad, 项目地址: https://github.com/OblivionOcean/NewPad/
     # However, 我们不会强制安装，且目前该项目还未准备好被安装。
 
